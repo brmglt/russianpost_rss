@@ -1,0 +1,5 @@
+*.tbz
+*.cookie
+*.swp
+captcha/*.png
+captcha-digits/*.png
